@@ -1,0 +1,41 @@
+1.What is phishing?
+-Phishing is a type of cyber attack where attackers try to trick people into revealing personal or sensitive information—like passwords, credit card numbers, or login credentials—by pretending to be a trustworthy person or organization.
+
+ 2.How to identify a phishing email?
+-Check the sender’s email address – fake ones often look similar to real ones.
+
+Be alert for generic greetings like “Dear User.”
+
+Watch for urgent or threatening messages asking quick action.
+
+Hover over links to see the real URL before clicking.
+
+Avoid unexpected attachments or requests for personal info.
+
+Look for spelling and grammar mistakes.
+
+ 3.What is email spoofing?
+-Email spoofing is a type of cyber attack where the attacker forges the sender’s email address to make it look like the email is coming from a trusted source (like a friend, company, or bank).
+
+ In Simple Words:
+
+It means sending fake emails that appear to be from someone you know or trust — but actually come from a hacker.
+
+ Example:
+
+You get an email that looks like it’s from your teacher (teacher@college.edu), but it was really sent by an attacker pretending to be them.
+
+4.Why are phishing emails dangerous?
+-Phishing emails are dangerous because they can steal personal information, spread malware, and lead to financial loss or identity theft.
+
+ 5.How can you verify the sender’s authenticity?
+-Verify the sender by checking the email address, hovering over links, looking for official details, and confirming through trusted contact methods.
+
+ 6.What tools can analyze email headers?
+-Tools to analyze email headers: Gmail/Outlook/Thunderbird (view headers), Google Admin Toolbox (Messageheader), MXToolbox Header Analyzer, Mailheader.org, SpamAssassin, and DMARC/SPF/DKIM checkers (dmarcian/DMARC Analyzer).
+
+7.What actions should be taken on suspected phishing emails?
+-if you get a suspected phishing email, don’t click links, don’t reply, report it, block the sender, delete the email, and scan your device for safety.
+
+8.How do attackers use social engineering in phishing?
+-Attackers use social engineering in phishing by pretending to be trusted people or organizations and creating urgency, fear, or curiosity to trick victims into revealing personal information or clicking malicious links.
